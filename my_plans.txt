@@ -1,0 +1,3 @@
+learn to use the terminal
+learn git
+I've learn that I don't understand async functions.
